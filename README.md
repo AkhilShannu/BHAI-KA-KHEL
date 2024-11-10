@@ -6,4 +6,4 @@ OK GUYS --READ MATTER 22222
 
 <center><h1> YOUR MANAGER </h1> </center>
 
-<center> ![image alt](https://github.com/AkhilShannu/BHAI-KA-KHEL/blob/main/AKHIL.jpeg?raw=true) </center>
+ ![image alt](https://github.com/AkhilShannu/BHAI-KA-KHEL/blob/main/AKHIL.jpeg?raw=true)
